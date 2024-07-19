@@ -1,0 +1,114 @@
+/* Created by alyssa denise */
+
+
+
+body{
+    background-image: url(s3.jpg);
+}
+body div{
+    background-image: url(s3.jpg);
+
+   
+}
+    
+    .login-title{
+        color:#181818;
+        margin-Top:5px;
+        margin-left:70px;
+        font-family: 'georgia';
+    }
+    
+    
+    .loginbg {
+      width: 200px;
+      height:250px;
+      border: 2px;
+      background-color:#526022;
+      padding: 50px;
+      margin: 20px;
+      margin-left:40px;
+      margin-top:50px;
+      border-radius:25px;
+      margin-bottom:50px;
+    }
+    
+    
+    .email-input{
+        margin-bottom:15px;
+        height:35px;
+        width:200px;
+        border-radius:18px;
+        border-style:solid;
+        border-color:black;
+        background-color:white;
+        padding-left:15px;
+    }
+    
+    
+    .password-input{
+        height:35px;
+        width:200px;
+        border-radius:18px;
+        border-color:black;
+        border-style:solid;
+        padding-left:15px;
+    }
+    
+    
+    .rememberme{
+        font-size:10px;
+        margin-right:5px;
+    }
+    
+    
+    .forgotpassword{
+        font-size:10px;
+        margin-left:20px;
+        color:green;
+        text-decoration:none;
+    }
+    
+    
+    .forgotpassword:hover{
+        color:red;
+        transition-duration:0.15s;
+    }
+    
+    
+    .login-button {
+        height:40px;
+        width:208px;
+        border-radius:50px;
+        margin-top:25px;
+        background-color:#252243;
+        color:white;
+        margin-bottom:10px;
+    }
+    
+    
+    .login-button:hover{
+        background-color:gray;
+        border-style:solid;
+        color:white;
+        transition-duration:0.15s;
+        cursor:pointer;
+    }
+    
+    
+    .signmeup{
+        font-size:12.5px;
+        font-family:serif;
+        text-decoration:none;
+        margin-right:25px;
+    }
+    
+    
+    .signmeuplabel{
+        font-size:12.5px;
+        font-family:serif;
+        text-decoration:none;
+        margin-left:25px;
+    }
+    
+    
+    }
